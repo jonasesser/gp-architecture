@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T21:14:40.373Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="VvW65gy9J-vihI1tmZ0V" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-07T21:55:01.779Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="QHsahU7sUhQF-aT1A0Wt" version="24.2.2" type="github">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
     <mxGraphModel dx="3497.5" dy="2269.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#184380" math="0" shadow="0">
       <root>
@@ -591,6 +591,11 @@
         <UserObject label="API Docs" link="https://athenaframework.com/api/" linkTarget="_blank" id="LRXPZS-r5NiS0eYnUJOr-235">
           <mxCell style="shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fillColor=none;" vertex="1" parent="1">
             <mxGeometry x="-1450.5" y="-804" width="87" height="27" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="VUE DEV" link="http://localhost:3000" linkTarget="_blank" id="LRXPZS-r5NiS0eYnUJOr-236">
+          <mxCell style="shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fillColor=none;" vertex="1" parent="1">
+            <mxGeometry x="-1547.5" y="-768.5" width="87" height="27" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
