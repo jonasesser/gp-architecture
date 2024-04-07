@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T21:04:45.854Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Gj-hTUnlY6Bs2h3z_rgU" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-07T21:11:05.908Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="HCiG0B_46gLKisN2U_Gx" version="24.2.2" type="github">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
     <mxGraphModel dx="2655.5" dy="1771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#184380" math="0" shadow="0">
       <root>
@@ -161,9 +161,11 @@
         <mxCell id="LRXPZS-r5NiS0eYnUJOr-73" value="Chat" style="shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1546" y="-955" width="87" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LRXPZS-r5NiS0eYnUJOr-74" value="Commands" style="shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1450.5" y="-955" width="87" height="20" as="geometry" />
-        </mxCell>
+        <UserObject label="Commands" link="https://athenaframework.com/tutorials/free/setup/command-list" linkTarget="_blank" id="LRXPZS-r5NiS0eYnUJOr-74">
+          <mxCell style="shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fillColor=none;" vertex="1" parent="1">
+            <mxGeometry x="-1450.5" y="-955" width="87" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="LRXPZS-r5NiS0eYnUJOr-75" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LRXPZS-r5NiS0eYnUJOr-73" target="LRXPZS-r5NiS0eYnUJOr-74">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1530.5" y="-775" as="sourcePoint" />
