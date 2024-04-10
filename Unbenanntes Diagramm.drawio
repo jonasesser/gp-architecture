@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T21:53:39.642Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="yEO39Q-eTulvbmAsX5c9" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-10T22:39:43.982Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="tuAq_QrJ5TOp8o8Io-dj" version="24.2.2" type="github">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
-    <mxGraphModel dx="3802.5" dy="2343.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#184380" math="0" shadow="0">
+    <mxGraphModel dx="2948.5" dy="1883.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#184380" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -48,7 +48,7 @@
           <mxGeometry x="-1307.5" y="-895" width="87" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LRXPZS-r5NiS0eYnUJOr-31" value="PLUGINS" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#fa6800;fontSize=12;align=center;strokeColor=#C73500;arcSize=6;verticalAlign=top;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-599" y="-1055" width="369" height="620" as="geometry" />
+          <mxGeometry x="-599" y="-1055" width="369" height="565" as="geometry" />
         </mxCell>
         <mxCell id="LRXPZS-r5NiS0eYnUJOr-35" value="PLUGINS" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#e51400;fontSize=12;align=center;strokeColor=#B20000;arcSize=6;verticalAlign=top;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-1025.88" y="-895" width="375.38" height="460" as="geometry" />
@@ -698,7 +698,10 @@
           </mxCell>
         </UserObject>
         <mxCell id="IPUG4N9_TtiLt6nAQQPi-56" value="GP Admin" style="shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fillColor=none;strokeColor=#FF6666;" vertex="1" parent="1">
-          <mxGeometry x="-584.19" y="-530" width="107" height="25" as="geometry" />
+          <mxGeometry x="-340.00000000000006" y="-595" width="107" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUG4N9_TtiLt6nAQQPi-57" value="GP Admin &#xa;Standalone" style="shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fillColor=none;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="-591" y="-465" width="107" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
