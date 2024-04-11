@@ -1,9 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T22:39:43.982Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="tuAq_QrJ5TOp8o8Io-dj" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-11T00:37:30.511Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="bUdzH2SnBX8rs4FqL6yf" version="24.2.2" type="github">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
-    <mxGraphModel dx="2948.5" dy="1883.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#184380" math="0" shadow="0">
+    <mxGraphModel dx="3440.5" dy="2148.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#184380" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
+        <UserObject label="Servers for Gangsta&#39;s Paradise" link="https://discord.com/channels/899586018183872573/1222591422503321641" linkTarget="_blank" id="IPUG4N9_TtiLt6nAQQPi-66">
+          <mxCell style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=default;strokeWidth=2;fillColor=#009BFF;fontSize=20;fontColor=#FFFFFF;align=center;arcSize=3;verticalAlign=top;spacingTop=4;" vertex="1" parent="1">
+            <mxGeometry x="-100" y="-560.5" width="840" height="535.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Servers for Gangsta&#39;s Paradise" link="https://discord.com/channels/899586018183872573/1222591422503321641" linkTarget="_blank" id="IPUG4N9_TtiLt6nAQQPi-65">
+          <mxCell style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=default;strokeWidth=2;fillColor=#009BFF;fontSize=20;fontColor=#FFFFFF;align=center;arcSize=3;verticalAlign=top;spacingTop=4;" vertex="1" parent="1">
+            <mxGeometry x="-120" y="-592.75" width="840" height="535.5" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="23046e2b9bb16c14-116" value="Gangsta&#39;s Paradise" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=none;strokeWidth=2;fillColor=#009BFF;fontSize=20;fontColor=#FFFFFF;align=center;arcSize=3;verticalAlign=top;spacingTop=4;" parent="1" vertex="1">
           <mxGeometry x="-1670" y="-1190" width="1500" height="1430" as="geometry" />
         </mxCell>
@@ -702,6 +712,83 @@
         </mxCell>
         <mxCell id="IPUG4N9_TtiLt6nAQQPi-57" value="GP Admin &#xa;Standalone" style="shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fillColor=none;strokeColor=#FF6666;" vertex="1" parent="1">
           <mxGeometry x="-591" y="-465" width="107" height="25" as="geometry" />
+        </mxCell>
+        <UserObject label="Servers for Gangsta&#39;s Paradise" link="https://discord.com/channels/899586018183872573/1222591422503321641" linkTarget="_blank" id="IPUG4N9_TtiLt6nAQQPi-58">
+          <mxCell style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeColor=default;strokeWidth=2;fillColor=#009BFF;fontSize=20;fontColor=#FFFFFF;align=center;arcSize=3;verticalAlign=top;spacingTop=4;" vertex="1" parent="1">
+            <mxGeometry x="-140" y="-630" width="840" height="535.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="IPUG4N9_TtiLt6nAQQPi-59" value="Gameserver&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Port: 7788&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#60a917;fontSize=12;align=center;strokeColor=#2D7600;arcSize=6;verticalAlign=top;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="-544.25" width="380" height="98.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUG4N9_TtiLt6nAQQPi-60" value="CDN&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Port: 80&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#60a917;fontSize=12;align=center;strokeColor=#2D7600;arcSize=6;verticalAlign=top;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="-425" width="380" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUG4N9_TtiLt6nAQQPi-61" value="Dynamic Content&lt;div&gt;Generated Audio Files for TTS&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#60a917;fontSize=12;align=center;strokeColor=#2D7600;arcSize=6;verticalAlign=top;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="150" y="-345" width="110" height="58.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUG4N9_TtiLt6nAQQPi-62" value="Client&lt;div&gt;Resources&lt;/div&gt;&lt;div&gt;(Encrypted)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#60a917;fontSize=12;align=center;strokeColor=#2D7600;arcSize=6;verticalAlign=top;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="-345" width="110" height="58.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUG4N9_TtiLt6nAQQPi-63" value="Webservices&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Port: 443&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#60a917;fontSize=12;align=center;strokeColor=#2D7600;arcSize=6;verticalAlign=top;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-544.25" width="340" height="274.25" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUG4N9_TtiLt6nAQQPi-64" value="API&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Port: 9090&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#60a917;fontSize=12;align=center;strokeColor=#2D7600;arcSize=6;verticalAlign=top;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-515" width="110" height="58.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUG4N9_TtiLt6nAQQPi-67" value="German Instance" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-119.5" y="-94.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUG4N9_TtiLt6nAQQPi-68" value="France Instance" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="-57.25" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUG4N9_TtiLt6nAQQPi-69" value="Multilingual Instance" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="-135" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUG4N9_TtiLt6nAQQPi-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="IPUG4N9_TtiLt6nAQQPi-70" target="IPUG4N9_TtiLt6nAQQPi-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUG4N9_TtiLt6nAQQPi-70" value="GP-ADMIN&lt;div&gt;Website&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Port 443&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#60a917;fontSize=12;align=center;strokeColor=#2D7600;arcSize=6;verticalAlign=top;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-465" width="130" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUG4N9_TtiLt6nAQQPi-73" value="Authentication (OAUTH2)" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ionicons-fill-vol-2/512/logo-discord-128.png;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="445" y="-415" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUG4N9_TtiLt6nAQQPi-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="IPUG4N9_TtiLt6nAQQPi-76" target="IPUG4N9_TtiLt6nAQQPi-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUG4N9_TtiLt6nAQQPi-76" value="GP-ADMIN&lt;div&gt;Server&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#60a917;fontSize=12;align=center;strokeColor=#2D7600;arcSize=6;verticalAlign=top;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-465" width="130" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUG4N9_TtiLt6nAQQPi-80" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Azure_Firewall_Manager.svg;" vertex="1" parent="1">
+          <mxGeometry x="215" y="-495" width="35" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUG4N9_TtiLt6nAQQPi-83" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/DDoS_Protection_Plans.svg;" vertex="1" parent="1">
+          <mxGeometry x="55.12" y="-316.25" width="30.88" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUG4N9_TtiLt6nAQQPi-84" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FFFF99;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.cache_node;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-316.25" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUG4N9_TtiLt6nAQQPi-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IPUG4N9_TtiLt6nAQQPi-86" target="IPUG4N9_TtiLt6nAQQPi-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUG4N9_TtiLt6nAQQPi-86" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/football-line-color/32/soccer-34-128.png" vertex="1" parent="1">
+          <mxGeometry x="60" y="-213" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUG4N9_TtiLt6nAQQPi-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.448;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IPUG4N9_TtiLt6nAQQPi-86" target="IPUG4N9_TtiLt6nAQQPi-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUG4N9_TtiLt6nAQQPi-89" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ionicons-fill-vol-2/512/logo-discord-128.png;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="-530" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUG4N9_TtiLt6nAQQPi-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IPUG4N9_TtiLt6nAQQPi-90" target="IPUG4N9_TtiLt6nAQQPi-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUG4N9_TtiLt6nAQQPi-90" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#FFFF99;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.tenant_admin;" vertex="1" parent="1">
+          <mxGeometry x="432" y="-221" width="56" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="IPUG4N9_TtiLt6nAQQPi-92" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database.svg;" vertex="1" parent="1">
+          <mxGeometry x="125" y="-476" width="26.35" height="19.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
