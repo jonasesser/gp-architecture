@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T01:11:55.910Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="OyfRxvG-mGviEsEnanWw" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-15T10:57:03.191Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="DNFSS0T1npm4aSgmmMew" version="24.2.3" type="github">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
-    <mxGraphModel dx="4621.5" dy="2784.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#184380" math="0" shadow="0">
+    <mxGraphModel dx="3346.5" dy="2098.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#184380" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -788,7 +788,7 @@
         <mxCell id="cigchniaXKWLRqf1OpX1-31" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="IPUG4N9_TtiLt6nAQQPi-76" target="cigchniaXKWLRqf1OpX1-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IPUG4N9_TtiLt6nAQQPi-76" value="GP-REST-PROXY&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;https://auth.my-gp.de&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#60a917;fontSize=12;align=center;strokeColor=#2D7600;arcSize=6;verticalAlign=top;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="IPUG4N9_TtiLt6nAQQPi-76" value="GP-REST-PROXY&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;https://auth.my-gp.de&lt;/div&gt;&lt;div&gt;https://partner.my-gp.de&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#60a917;fontSize=12;align=center;strokeColor=#2D7600;arcSize=6;verticalAlign=top;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="440" y="-517.5" width="420" height="75" as="geometry" />
         </mxCell>
         <mxCell id="IPUG4N9_TtiLt6nAQQPi-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="IPUG4N9_TtiLt6nAQQPi-63" edge="1">
