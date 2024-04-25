@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T14:39:42.878Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="s-WN9TGS3242f-rGKGuR" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-25T20:00:32.957Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="IzhlVjYQRPj8b8WrreCh" version="24.2.5" type="github">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
-    <mxGraphModel dx="3346.5" dy="2098.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#184380" math="0" shadow="0">
+    <mxGraphModel dx="3972.5" dy="2188.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#184380" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -1156,14 +1156,60 @@
         <mxCell id="z89a44BsFbXHDO5z_tvV-2" value="&lt;div&gt;DEV TALK&lt;/div&gt;ROADMAP / Brainstorm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2200" y="-1178.25" width="1270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z89a44BsFbXHDO5z_tvV-3" value="FIX ISSUES" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2300" y="-1049" width="210" height="129" as="geometry" />
+        <mxCell id="z89a44BsFbXHDO5z_tvV-7" value="Basics" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="-1065" width="110" height="400" as="geometry">
+            <mxRectangle x="2240" y="-1065" width="80" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="z89a44BsFbXHDO5z_tvV-4" value="TRANSLATION" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2240" y="-915" width="210" height="129" as="geometry" />
+        <mxCell id="z89a44BsFbXHDO5z_tvV-11" value="NEW LOOK AND FEEL" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="z89a44BsFbXHDO5z_tvV-7">
+          <mxGeometry y="30" width="110" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="z89a44BsFbXHDO5z_tvV-5" value="NEW LOOK AND FEEL" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2460" y="-949" width="210" height="139" as="geometry" />
+        <mxCell id="z89a44BsFbXHDO5z_tvV-3" value="FIX ISSUES" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="z89a44BsFbXHDO5z_tvV-7">
+          <mxGeometry y="130" width="110" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="z89a44BsFbXHDO5z_tvV-4" value="TRANSLATION" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="z89a44BsFbXHDO5z_tvV-7">
+          <mxGeometry y="259" width="110" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="z89a44BsFbXHDO5z_tvV-8" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="z89a44BsFbXHDO5z_tvV-7">
+          <mxGeometry y="388" width="110" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="z89a44BsFbXHDO5z_tvV-12" value="New Features" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2390.5" y="-1065" width="240" height="42" as="geometry">
+            <mxRectangle x="2240" y="-1065" width="80" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z89a44BsFbXHDO5z_tvV-16" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="z89a44BsFbXHDO5z_tvV-12">
+          <mxGeometry y="30" width="240" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="z89a44BsFbXHDO5z_tvV-17" value="Third Party" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2940" y="-6" width="240" height="42" as="geometry">
+            <mxRectangle x="2240" y="-1065" width="80" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z89a44BsFbXHDO5z_tvV-18" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="z89a44BsFbXHDO5z_tvV-17">
+          <mxGeometry y="30" width="240" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="z89a44BsFbXHDO5z_tvV-19" value="Partner Program" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3210" y="-6" width="240" height="42" as="geometry">
+            <mxRectangle x="2240" y="-1065" width="80" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z89a44BsFbXHDO5z_tvV-20" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="z89a44BsFbXHDO5z_tvV-19">
+          <mxGeometry y="30" width="240" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="z89a44BsFbXHDO5z_tvV-21" value="&lt;span style=&quot;font-weight: 700; margin: 0px; padding: 0px; border: 0px; font-family: &amp;quot;gg sans&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; vertical-align: baseline; outline: 0px; text-align: left; white-space-collapse: break-spaces;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;Topics to be Covered&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-family: &amp;quot;gg sans&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; vertical-align: baseline; outline: 0px; text-align: left; white-space-collapse: break-spaces;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;ol style=&quot;margin-top: 4px; margin-right: 0px; margin-bottom: 0px; margin-left: calc(.4em + .6em*var(--totalCharacters)); padding: 0px; border: 0px; font-family: &amp;quot;gg sans&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 16px; vertical-align: baseline; list-style-position: outside; list-style-image: initial; text-align: left; white-space-collapse: break-spaces; --totalCharacters: 1;&quot; start=&quot;1&quot;&gt;&lt;li style=&quot;margin: 0px 0px 4px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;Introduction to the GP&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;-Core project&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;margin: 0px 0px 4px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;Exploring all the stuff behind it&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;margin: 0px 0px 4px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;Current roadmap&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;margin: 0px 0px 4px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;Collaborative Discussion&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;: How can we benefit from each other&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;?&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;margin: 0px 0px 4px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;Q&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;&amp;amp;A Session – Engage with the Community&lt;/span&gt;&lt;span style=&quot;margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; vertical-align: baseline; outline: 0px;&quot;&gt;!&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3110" y="-1095" width="340" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="z89a44BsFbXHDO5z_tvV-23" value="Protocol/Notes:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ShopSystem Updates&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Handy!&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Plugins die geteilt werden.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Rage MP Wrapper!&lt;/div&gt;&lt;div&gt;Valea Wrapper ;-)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Preise (Plugins, Devs,...)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PrimeVue, DaisyUi, Quasar, (Tailwind)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Welches UI Framwork / Pro Cons -&amp;gt; Umfrage!&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Close Projects&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2971" y="-915" width="480" height="295" as="geometry" />
+        </mxCell>
+        <mxCell id="z89a44BsFbXHDO5z_tvV-24" value="Closed Community Plugins" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2390.5" y="-997" width="240" height="42" as="geometry">
+            <mxRectangle x="2240" y="-1065" width="80" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z89a44BsFbXHDO5z_tvV-25" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="z89a44BsFbXHDO5z_tvV-24">
+          <mxGeometry y="30" width="240" height="12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
