@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T23:25:35.585Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="3r9JtayPIZnQBaxmahvS" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-25T14:39:42.878Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="s-WN9TGS3242f-rGKGuR" version="24.2.5" type="github">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
-    <mxGraphModel dx="3187.5" dy="2012.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#184380" math="0" shadow="0">
+    <mxGraphModel dx="3346.5" dy="2098.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#184380" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -1144,11 +1144,26 @@
         <mxCell id="tCuqvOeDTTR1Cqkq0SJI-6" value="Flatbed" style="shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fillColor=none;strokeColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="-1193" y="-465" width="107" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VuNHFW3CZ-1YG7rOtJeL-1" value="Stuyk&#xa;Pause Menu" style="shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="VuNHFW3CZ-1YG7rOtJeL-1" value="Stuyk&#xa;Pause Menu" style="shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-888.88" y="-203" width="107" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VuNHFW3CZ-1YG7rOtJeL-2" value="Stuyk&#xa;Hotkey" style="shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="VuNHFW3CZ-1YG7rOtJeL-2" value="Stuyk&#xa;Hotkey" style="shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-772.88" y="-203" width="107" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z89a44BsFbXHDO5z_tvV-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2200" y="-1180" width="1270" height="1270" as="geometry" />
+        </mxCell>
+        <mxCell id="z89a44BsFbXHDO5z_tvV-2" value="&lt;div&gt;DEV TALK&lt;/div&gt;ROADMAP / Brainstorm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2200" y="-1178.25" width="1270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z89a44BsFbXHDO5z_tvV-3" value="FIX ISSUES" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2300" y="-1049" width="210" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="z89a44BsFbXHDO5z_tvV-4" value="TRANSLATION" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="-915" width="210" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="z89a44BsFbXHDO5z_tvV-5" value="NEW LOOK AND FEEL" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2460" y="-949" width="210" height="139" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
